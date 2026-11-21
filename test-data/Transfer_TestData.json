@@ -1,0 +1,6 @@
+{
+  "transactionType": "Transfer",
+  "amount": "100",
+  "account": "9876543210",
+  "description": "Playwright transfer test"
+}

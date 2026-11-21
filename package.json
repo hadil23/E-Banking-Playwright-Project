@@ -1,0 +1,16 @@
+{
+  "name": "e-bankingplaywright-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/mcp": "^0.0.86",
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
